@@ -1,0 +1,1 @@
+Peace be upon you,This project is the result of my efforts of a few minutes, but the script used to create this project is very useful. I hope you can create the best project with Godot engine (: Your brother, Hizha
